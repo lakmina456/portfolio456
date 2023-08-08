@@ -31,7 +31,6 @@
     margin-top: 20px;
 }
 
-/* Add media query for smaller screens */
 @media (max-width: 768px) {
     .container {
         padding: 10px;
